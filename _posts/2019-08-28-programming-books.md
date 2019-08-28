@@ -37,7 +37,7 @@ Even though this book might be more relevant for managers, there is definitely l
 This book teaches you everything from defining the problem correctly to solutions to how to speed up insertion sort. Some people criticize it today saying that it is outdated and today we have already optimized libraries that does “everything”, but I still think this book teaches you how to think like a programmer.
 
 
-And here are a few books I want to read:
+**And here are a few books I want to read:**  
 Refactoring by Martin Fowler  
 Compilers: Principles, Techniques, and Tools  
 
