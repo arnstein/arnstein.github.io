@@ -190,6 +190,8 @@ Atom is supported by default through [jekyll-feed](https://github.com/jekyll/jek
 
 RSS 2.0 is also supported through [RSS auto-discovery](http://www.rssboard.org/rss-autodiscovery). The `rss-feed.xml` file (based on the template found at [jekyll-rss-feeds](https://github.com/snaptortoise/jekyll-rss-feeds)) that the feed path points to when using RSS 2.0 is automatically generated based on the appropriate configuration variables found in `_data/settings.yml`.
 
+Add this.
+
 To use RSS 2.0, ensure the following is done:
 
 * Uncomment the last two lines in the `_config.yml` file.
