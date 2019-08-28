@@ -4,7 +4,7 @@ title: "Good programming books"
 author: "Arnstein Kleven"
 categories: journal
 tags: [programming,books]
-image: forest.jpg
+image: 
 ---
 
 # Hello and welcome to the first post of this blog!
